@@ -4,24 +4,27 @@ Wegen VM komplikationen habe ich KN01 mit Aurora gemacht.
 
 ## Die CPU mit weniger Cores als Gast-System
  
-![image1](m346_Jasmin.jeya\KN01\img\kn01.0.png)
+![kn01 0](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/ea8404ea-bafa-40cd-8a6b-a094d05ca3ae)
+
 
 
 ## Die CPU mit zu vielen Cores als Gast-System
 
- 
-![image1](m346_Jasmin.jeya\KN01\img\kn01.2.png)
+
+![kn01 2](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/b5015dd4-5120-44dc-bf3a-5d161da14cd2)
 
 
 
 ## Weniger RAM als Gast-System
 
-![image1](m346_Jasmin.jeya\KN01\img\kn01.1.png)
+![kn01 1](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/9923fae2-0081-4903-81fe-d801de9c5328)
+
 
 ## Zu viel RAM als Gast-System
 
-![image1](m346_Jasmin.jeya\KN01\img\ram-more.png)
 
+
+![ram-more](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/91e7a544-14bb-47bb-856f-6be474486acc)
 
 
 ## Erklärung
