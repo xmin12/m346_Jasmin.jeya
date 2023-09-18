@@ -1,7 +1,7 @@
-#KN02 18.09.2023 
+# KN02 18.09.2023 
 
 
-#KN03: Cloud-init und AWS
+# KN03: Cloud-init und AWS
 
 ## A) Cloud-init Datei Verstehen
 
