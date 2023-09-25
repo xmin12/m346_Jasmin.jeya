@@ -30,7 +30,21 @@ packages:                                                                 # Zus�
 
 ## B) SSH-Key und Cloud-init
 
+- Siehe mein angepasster Cloud-init Konfiguration als Datei im Git-Repository.
 
+- ### Ein Screenshot der Details der Instanz. Scrollen Sie so weit runter,
+  ### dass das Feld "Key pair assigned at launch", sichtbar ist.
+  ![Screenshot 2023-09-25 092612](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/186c29e1-6c72-49f1-97e5-c15cfaee87cb)
+
+- ## Screenshot mit dem ssh-Befehl und des Resultats unter Verwendung des 1 Schlüssels.
+  ![Screenshot 2023-09-25 092724](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/eaac21fe-8801-4743-952c-560d01c5a837)
+
+- ## Screenshot mit dem ssh-Befehl und des Resultats unter Verwendung des 2 Schlüssels.
+  ![Screenshot 2023-09-25 092806](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/10ebadc1-7c15-4a85-bc4f-64af30cfd0d2)
+
+
+- ## Screenshot mit dem Auszug aus dem Cloud-Init-Log.
+  ![Screenshot 2023-09-25 093222](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/a57289c0-b056-4486-b9af-e52ba34ebf0b)
 
 ## C) Template
 
