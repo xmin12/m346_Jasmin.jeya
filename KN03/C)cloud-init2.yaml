@@ -1,0 +1,22 @@
+#cloud-config
+users:
+  - name: ubuntu
+    sudo: ALL=(ALL) NOPASSWD:ALL
+    groups: users, admin
+    home: /home/ubuntu
+    shell: /bin/bash
+    ssh_authorized_keys:
+      - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCZp9BUXkpbST9LQtk7v62q71nulwtUKIX44xQQ4QmnvkiYNQPBGHjeVOhDUWraF2XJbpN2Xj7sZdKIeLqurJDk99MF2fF4lSNB+RXklBEJxWPSqB9C4RBmnQx5OJj3f5xB53btYnP9MuS8AwVo3AyPZf0y8XQ6okIduyxsfxozN8VwWqmaOXWZ/ch0kknQD/7IPihR7FM35XQZx2ms3W+RtuljdINLKaBo08yPUNAVb5v5vqC9sfKj17fYCdG6mRlHPNyZo1GoboVNyym+7nzstkHmzeefQw2qNkhxG7FEmNKjQd7Lt+Ma6pxgoshpJf+sXBIn/PQutOj+LXcqsF8b aws-key
+ - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC0WGP1EZykEtv5YGC9nMiPFW3U3DmZNzKF
+O5nEu6uozEHh4jLZzPNHSrfFTuQ2GnRDSt+XbOtTLdcj26+iPNiFoFha42aCIzYj
+t6V8Z+SQ9pzF4jPPzxwXfDdkEWylgoNnZ+4MG1lNFqa8aO7F62tX0Yj5khjC0Bs7
+Mb2cHLx1XZaxJV6qSaulDuBbLYe8QUZXkMc7wmob3PM0kflfolR3LE7LResIHWa4
+j4FL6r5cQmFlDU2BDPpKMFMGUfRSFiUtaWBNXFOWHQBC2+uKmuMPYP4vJC9sBgqM
+vPN/X2KyemqdMvdKXnCfrzadHuSSJYEzD64Cve5Zl9yVvY4AqyBD aws-key 
+      
+ssh_pwauth: false
+disable_root: false 
+package_update: true
+packages:
+  - curl 
+  - wget 
