@@ -54,15 +54,19 @@ SalesForce Sales Cloud
 - Gegenüberstellung der SaaS-Lösung zu IaaS und PaaS Lösungen von vorher. Welches wählen Sie und wieso? Was müsste man zusätzlich beachten?
 
 
-
-
 # B) Interpretation der Resultate 
 
 ## Interpretieren Sie die Resultate der Varianten u.a. mit den folgenden Fragen: 
-wie stark unterscheiden sich die Angebote? 
-Welches ist das billigste?
-Wieso ist eines davon viel teurer? 
-Ist es aber wirklich teurer?
+### - wie stark unterscheiden sich die Angebote? 
+Die drei Optionen (Rehosting, Replatforming und Repurchasing) weisen zwar Unterschiede auf, 
+jedoch sind Replatforming und Repurchasing merklich kostenintensiver im Vergleich zu Rehosting.
+
+### - Welches ist das billigste? 
+Der günstigste Service ist das Rehosting bei AWS.
+
+### - Wieso ist eines davon viel teurer? Ist es aber wirklich teurer?
+Obwohl die Kosten für die Replatforming und Repurchasing Angebote erheblich höher sind, 
+umfassen sie deutlich mehr Leistungen als die alternativen Möglichkeiten.
 
 
 
