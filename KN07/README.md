@@ -30,7 +30,6 @@ Meine Schätzung: 679.34 USD für 1 Monat -> für 12 Monate 8152.08 USD
 
 ## - 2) Replatforming
 ## Heruko
-## Erklärung zu meiner Auswahl ist.
 - Web Server
 ![Screenshot 2023-10-02 110109](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/a7bd9235-9d2e-4379-a105-a8369040b5d8)
 ![Screenshot 2023-10-02 110124](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/7af12034-08f5-413b-a420-746b9449c6d9)
@@ -40,18 +39,33 @@ Meine Schätzung: 679.34 USD für 1 Monat -> für 12 Monate 8152.08 USD
 ![Screenshot 2023-10-02 111112](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/b3661bfe-5fe9-4355-a776-694547749b83)
 ![Screenshot 2023-10-02 111121](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/8e82de07-d187-450c-ae69-fd0f42b96e54)
 
-## - 3) Repurchasing
+# - 3) Repurchasing
+## Zoho CRM 
+![Screenshot 2023-10-03 113204](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/a9a73c31-5b94-4cae-9489-bb96b69cb4c3)
+### Die Professional-Stufe bietet mehr Features und kostet pro Benutzer pro Monat 2 CHF weniger.
+- 23 x 16 = 368 Euro per Monat
+## SalesForce Sales Cloud
+![Screenshot 2023-10-03 112906](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/c96de5c8-35c6-4a12-9a9b-4ba251d66ae8)
+- 25 x 16 = 400 Euro per Monat
 
-Zoho CRM 
-![Screenshot 2023-10-02 112447](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/2dc266dd-06ae-4df0-8222-97d5e418b2bb)
-1133 Pro Monat 
-SalesForce Sales Cloud
-![Screenshot 2023-10-02 112533](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/e9b3d01d-ebd3-4e42-8aca-36e3dea24104)
-![Screenshot 2023-10-02 113012](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/27d33001-0e6e-45c8-9b45-e95da26ddc9d)
-80 * 16 = 1280 USD Pro Monat 
+## Welches wähle ich?
+  Ich habe mich auch hier für die kostengünstigste Option entschieden, obwohl die Preise immer noch ziemlich hoch sind.
+  
+##  Welches wählen Sie und wieso? Was müsste man zusätzlich beachten?
+- ### SaaS (Software as a Service):
+  Ein Beispiel für SaaS ist Zoho. Bei SaaS-Diensten ist keine Hintergrundkonfiguration erforderlich;
+  stattdessen erhält man im Grunde genommen ein fertiges Produkt. SaaS-Lösungen sind in der Regel einfach einzurichten,
+  aber sie können auch relativ teuer sein.
 
-- Angabe welches ausgewählt wird.
-- Gegenüberstellung der SaaS-Lösung zu IaaS und PaaS Lösungen von vorher. Welches wählen Sie und wieso? Was müsste man zusätzlich beachten?
+- ### PaaS (Platform as a Service):
+  Heroku ist ein Beispiel für PaaS. Bei PaaS-Diensten muss man sich nicht um die Serverkonfiguration kümmern,
+  benötigt jedoch Programmierkenntnisse im Gegensatz zu SaaS. Die Einrichtung von PaaS ist nicht so komplex wie
+  bei IaaS und oft kostengünstiger als SaaS, solange man nicht die Software selbst entwickeln muss.
+
+- ### IaaS (Infrastructure as a Service):
+  AWS EC2 ist ein Beispiel für IaaS. Hier muss man alles selbst konfigurieren und aufsetzen.
+  IaaS bietet mehr Möglichkeiten als die anderen Optionen und ist oft die kostengünstigste Wahl.
+  Allerdings ist es auch deutlich komplexer und erfordert ein gewisses Maß an Fachwissen, um eingerichtet zu werden.
 
 
 # B) Interpretation der Resultate 
