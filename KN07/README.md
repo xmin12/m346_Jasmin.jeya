@@ -1,56 +1,54 @@
 # KN07: Kostenberechnung
+<hr>
 
 # A) Kostenrechnung erstellen 
 
 ## - 1) Rehosting
- ## Erklärung zu meiner Auswahl ist.
-AWS Pricing Calculator
-Meine Schätzung: 1.230.84 USD für 12 Monate
-- Web Server - 32.57 USD Monatlich
-![Screenshot 2023-10-02 102054](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/bbf2e062-0302-434e-8d50-eaf061ac0ed2)
-![Screenshot 2023-10-02 102308](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/0036d514-b6b6-4ac6-b17b-601c73cce9b7)
-![Screenshot 2023-10-02 102107](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/67c5acab-4cb6-418b-9d80-5a6c0eb119d7)
-![Screenshot 2023-10-02 102119](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/93a4ace2-3f27-417f-a51e-559aaa2d5faa)
-![Screenshot 2023-10-02 102137](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/513f8a86-95fa-48db-bed0-773462fc3e4b)
--  DB - 70.00 USD Monatlich
-![Screenshot 2023-10-02 105104](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/3fc7690c-03b9-424d-84bd-883df90f7954)
-![Screenshot 2023-10-02 105119](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/4f35b7d6-acff-49c7-aef3-74aecec64d4c)
-![Screenshot 2023-10-02 105129](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/0b8c2659-8c32-49b7-8133-bf48d576387d)
 
+## AWS
+![image](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/1cb6c996-a5d0-429f-bb63-d833abb7dd3f)
 ## Azuru
-AWS Pricing Calculator
-Meine Schätzung: 679.34 USD für 1 Monat -> für 12 Monate 8152.08 USD
-- WebServer - 609.34 USD Monatlich
-![Screenshot 2023-10-02 104743](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/8bfd938b-d534-429f-826b-4a46330c808a)
-![Screenshot 2023-10-02 104800](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/249538c7-1dd6-4cd3-9c45-6d015981ed8d)
-![Screenshot 2023-10-02 104810](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/e990b88b-569b-485c-a966-6f28324d00bf)
-- DB - 69.86 USD Monatlich
-![Screenshot 2023-10-02 104923](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/e0a2b308-256b-4377-93bc-cdaf798dff2e)
-![Screenshot 2023-10-02 104940](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/e1b68416-35c8-4319-b63e-96f94377d605)
+![image](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/a280c616-3528-4da0-9487-696573046ab2)
+### Vergleich:
+AWS ist bei gleicher Dienstleistung günstiger als Azure. AWS bietet schnellere Backups und einen
+leistungsstarken Webserver, aber der Load Balancer ist kostenpflichtig und der Datenbankserver teurer als bei Azure.
+
+Azure hingegen bietet einen kostenlosen Load Balancer und eine 
+günstigere Datenbank mit 128 GB Speicher. Allerdings erfordert der Webserver 
+zusätzlichen Speicher, ohne dass zusätzliche Ressourcen hinzugefügt werden können.
+
+### Auswahl:
+Die Wahl zwischen AWS und Azure hängt von individuellen Anforderungen und Budgets ab.
+Beide Anbieter haben Vor- und Nachteile, daher ist es wichtig, die spezifischen Bedürfnisse
+sorgfältig zu prüfen, um die beste Option auszuwählen.
+<hr>
 
 ## - 2) Replatforming
 ## Heruko
-- Web Server
-![Screenshot 2023-10-02 110109](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/a7bd9235-9d2e-4379-a105-a8369040b5d8)
-![Screenshot 2023-10-02 110124](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/7af12034-08f5-413b-a420-746b9449c6d9)
-![Screenshot 2023-10-02 110132](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/a5316cb0-cb84-413e-b19d-05c644fc6b14)
-![Screenshot 2023-10-02 110228](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/861c2a10-35cd-486f-915e-93d689f5e085)
-- DB
-![Screenshot 2023-10-02 111112](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/b3661bfe-5fe9-4355-a776-694547749b83)
-![Screenshot 2023-10-02 111121](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/8e82de07-d187-450c-ae69-fd0f42b96e54)
+![Screenshot 2023-10-02 111112](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/425404ff-fc91-4eb3-8e18-ad7666edac15)
 
-# - 3) Repurchasing
+### Auswahl:
+Aufgrund der begrenzten Konfigurationsmöglichkeiten bei Heroku habe ich 
+stets die Konfiguration gewählt, die die Mindestanforderungen erfüllt. Dies hat jedoch dazu geführt,
+dass meine Konfiguration oft teurer ist als notwendig. Eco und Basic waren zu$
+knapp bemessen, daher habe ich die Production-Stufe genutzt. Bei Standard 2x ist 
+der 1GB RAM etwas knapp, aber die nächsthöhere Stufe wäre zu teuer. Die Datenbank 
+verfügt über 256GB Speicher, da die kleinere Option nur 64GB bietet. Andere Optionen 
+wurden ausgelassen, da sie nicht benötigt wurden.
+<hr>
+
+## - 3) Repurchasing
 ## Zoho CRM 
 ![Screenshot 2023-10-03 113204](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/a9a73c31-5b94-4cae-9489-bb96b69cb4c3)
-### Die Professional-Stufe bietet mehr Features und kostet pro Benutzer pro Monat 2 CHF weniger.
-- 23 x 16 = 368 Euro per Monat
+- 23 x 16 = 368 Euro per Monat 
 ## SalesForce Sales Cloud
 ![Screenshot 2023-10-03 112906](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/c96de5c8-35c6-4a12-9a9b-4ba251d66ae8)
 - 25 x 16 = 400 Euro per Monat
-
-## Welches wähle ich?
-  Ich habe mich auch hier für die kostengünstigste Option entschieden, obwohl die Preise immer noch ziemlich hoch sind.
   
+### Auswahl:
+Ich habe mich für die kostengünstigste Option, nämlich Zoho, entschieden. 
+Obwohl die Preise immer noch recht hoch sind, bietet Zoho mehr Features als Salesforce.
+
 ##  Welches wählen Sie und wieso? Was müsste man zusätzlich beachten?
 - ### SaaS (Software as a Service):
   Ein Beispiel für SaaS ist Zoho. Bei SaaS-Diensten ist keine Hintergrundkonfiguration erforderlich;
@@ -67,23 +65,30 @@ Meine Schätzung: 679.34 USD für 1 Monat -> für 12 Monate 8152.08 USD
   IaaS bietet mehr Möglichkeiten als die anderen Optionen und ist oft die kostengünstigste Wahl.
   Allerdings ist es auch deutlich komplexer und erfordert ein gewisses Maß an Fachwissen, um eingerichtet zu werden.
 
+<hr>
 
 # B) Interpretation der Resultate 
 
 ## Interpretieren Sie die Resultate der Varianten u.a. mit den folgenden Fragen: 
 ### - wie stark unterscheiden sich die Angebote? 
-Die drei Optionen (Rehosting, Replatforming und Repurchasing) weisen zwar Unterschiede auf, 
-jedoch sind Replatforming und Repurchasing merklich kostenintensiver im Vergleich zu Rehosting.
+Die drei Optionen (Rehosting, Replatforming und Repurchasing) weisen zwar Unterschiede auf. 
+Die Preisunterschiede zwischen den verschiedenen Optionen sind signifikant.
+Das Rehosting bei AWS ist die kostengünstigste Option,
+während das Replatforming von Heroku am teuersten ist. 
+Dies liegt daran, dass bei Heroku eine bessere Konfiguration ausgewählt wurde, 
+da die Auswahlmöglichkeiten begrenzt sind.
 
 ### - Welches ist das billigste? 
-Der günstigste Service ist das Rehosting bei AWS.
+Wenn man die Wahl auf eine der beiden Optionen, AWS oder Zoho, 
+beschränken müsste, wäre AWS aufgrund seiner niedrigeren Preise die wahrscheinlichere Wahl.
 
 ### - Wieso ist eines davon viel teurer? Ist es aber wirklich teurer?
-Obwohl die Kosten für die Replatforming und Repurchasing Angebote erheblich höher sind, 
-umfassen sie deutlich mehr Leistungen als die alternativen Möglichkeiten.
-
-
-
+Die Angebote unterscheiden sich in erster Linie aufgrund der
+Dienstleistungen und Konfigurationen, die sie bieten.
+Ein höherer Preis kann durch zusätzliche Funktionen, Leistung oder Ressourcen gerechtfertigt sein, was in einigen Fällen sinnvoll sein kann. Es ist wichtig, 
+die individuellen Anforderungen und Budgets zu berücksichtigen, um die beste Option auszuwählen. In diesem Fall ist "teurer" nicht zwangsläufig schlechter, 
+sondern kann auf eine höhere Leistung oder 
+erweiterte Funktionen hinweisen, die möglicherweise erforderlich sind.
 
 
 
