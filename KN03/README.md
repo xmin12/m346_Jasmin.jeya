@@ -60,4 +60,16 @@ packages:                                                            # Zusätzli
   ![Screenshot 2023-09-25 114814](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/4af00104-34b3-471e-8fbe-47c5b8850ba2)
 
 
-* WebServer 
+* WebServer
+  - index.html
+  ![Screenshot 2023-10-23 093548](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/8791a33f-2fa6-4499-8549-4a4aee38dc93)
+
+  - info.php
+  ![Screenshot 2023-10-23 093754](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/503fc1b7-8876-46ad-ba95-cc0d09dd14fd)
+
+  - db.php
+  ![Screenshot 2023-10-23 093820](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/f78b2fe4-b707-430a-8641-51f6fbec3031)
+
+  - http://3.93.149.30/adminer/
+  ![image](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/51919b44-9edf-47cd-8cae-608192c291ca)
+
