@@ -10,3 +10,8 @@
 ## B) Web-Server mit PHP-Seite hinzufügen
 
 
+
+
+![image](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/a7e4fd5d-0d40-431c-b686-57c515272ad7)
+
+![image](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/c484655a-c7b6-49e2-ae2f-18f13ecb0a4f)
