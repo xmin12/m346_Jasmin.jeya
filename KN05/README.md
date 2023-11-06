@@ -5,18 +5,17 @@ Diagramm über Netzwerke gezeichnet
 ![image](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/1f264d7e-99e9-4fc8-956c-221c5bc2529f)
 
 ## B) Subnetz und private IP wählen
-![image](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/4117473f-cd1a-49c4-a946-ef88f1c31cf2)
-Die beide Private IPs
-1. 172.31.2.0
-2. 172.31.4.0
+![image](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/6742dd0b-f4c3-4ebd-82b0-b401918f43ca)
+1. 172.31.80.0/20
+2. 172.31.48.0/20
 
 ## C) Objekte und Instanzen erstellt
 - Liste der Sicherheitsgruppe mit sprechenden Namen/Feldern:
-![image](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/1a37cea5-c294-42bd-8856-d9760d275bb2)
+![image](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/049607d5-17a0-498b-8902-0080585c0481)
 - Inbound-Regel für die DB-Sicherheitsgruppe:
-![image](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/ef485085-5276-4e8d-b63d-9631afb9d040)
+![image](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/171f6269-8ad9-4a73-bcc0-c05045191b4e)
 - Liste der Elastic IPs mit sprechenden Namen:
-![image](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/22d60768-54a2-4a7b-bd29-cfc9f59755ab)
+![image](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/46897fe6-0bd9-484c-a717-c5f1e3afd6a1)
 > index.html
 ![image](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/785261ef-3ec5-47ed-b066-83e89f76da7b)
 > info.php
