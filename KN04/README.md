@@ -49,9 +49,6 @@ write_files:
         </html>
     permissions: "0666"
 
-
-
-  <img src="https://kn04-jasminjeyakumar.s3.amazonaws.com/newYork2023.jpg" />
 ```
 - Screenshot der Seite image.php (mit sichtbarer URL)
 ![image](https://github.com/xmin12/m346_Jasmin.jeya/assets/112725311/a7e4fd5d-0d40-431c-b686-57c515272ad7)
